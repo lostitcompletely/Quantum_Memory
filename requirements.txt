@@ -1,0 +1,6 @@
+matplotlib==3.11.2
+numpy==2.5.4
+pymatching==2.4.0
+qiskit==2.4.1
+qiskit_aer==0.17.2
+stim==1.16.0
